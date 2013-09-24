@@ -19,7 +19,7 @@ h1 {
 	margin: auto auto;
 	color: white;
 	font-size: 42px;
-	font-family: century gothic, sans-serif;
+	font-family: arial, century gothic, sans-serif;
 	font-weight: 800;
 	position: relative;
 	background: black;
@@ -55,30 +55,30 @@ h3{
 p.contents {
 	padding: 0px 10px;	
 	font: calibri, serif;
-	font-size: 12px;
+	font-size: 10px;
 }
 
 p.list-title{
 	font-weight: bold;
-	font-size: 14px;
+	font-size: 12px;
 	padding: 0px;
 }
 
 p.listing {
 	padding-right: 30px;
-	font-size: 14px;
+	font-size: 12px;
 }
 
 p.listing-detail{
 	padding: 0px 50px;
 	font-style: italic;
 	line-height: 95%;
-	font-size: 14px;
+	font-size: 12px;
 }
 
 p.list-date {
 	padding: 0px;
-	font-size: 12px;
+	font-size: 10px;
 	line-height: 95%;
 	color: grey;
 }
@@ -86,13 +86,13 @@ p.list-date {
 p.list-quote{
 	padding-right: 30px;
 	font-style: italic;
-	font-size: 14px;
+	font-size: 12px;
 }
 
 p.list-post{
 	padding-right: 30px;
 	color: black;
-	font-size: 14px;
+	font-size: 12px;
 }
 
 #list-emph {
@@ -124,8 +124,6 @@ p.list-post{
 	background-image: url('images/container.jpg');
 	background-repeat: repeat-y;
 	background-size: 100%;	
-	
-	font-family: segoe ui, arial;
 }
 
 #profile {
@@ -158,13 +156,12 @@ p.list-post{
 	padding: 0px;
 	margin: 0px;
 	list-style: none;
-	font-family: century gothic;
 }
 
 #navcontainer li {
 	display: inline;
 	padding: 0px 20px;
-	font-size: 14px;
+	font-size: 12px;
 }
 
 li a{
@@ -187,8 +184,9 @@ li a:hover{
 	color: white;
 	font-size: 14px;
 	font-family: calibri, century gothic, sans-serif;
-	font-weight: bold;
-	line-height: 95%;
+	font-weight: 200;
+	line-height:95%;
+	
 }
 
 #contents {
