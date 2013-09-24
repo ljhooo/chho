@@ -1,0 +1,210 @@
+body {
+
+	text-align: center;
+	color: black;
+	font: 11px verdana, sans-serif;
+	width: 100%;
+	position: relative;
+	background-image: url('images/bg_crosshatch2.jpg');
+	background-repeat: repeat;
+}
+
+#header {
+	width: 100%;
+	color: white;
+	background: black;
+}
+
+h1 {
+	margin: auto auto;
+	color: white;
+	font-size: 42px;
+	font-family: century gothic, sans-serif;
+	font-weight: 800;
+	position: relative;
+	background: black;
+	padding: 0px 10px 5px 10px;
+}
+
+h1 a{
+	text-decoration: none;
+	color: white;
+}
+
+h2{
+	margin: auto auto;
+	color: white;
+	font-size: 18px;
+	font-family: calibri, century gothic, sans-serif;
+	font-weight: 300;
+	position: relative;
+	background: #900;
+	padding: 0px 10px 5px 10px;
+}
+
+h2 a{
+	text-decoration: none;
+	color: white;
+}
+
+h3{
+	font: cambria, times new roman, sans-serif;
+	font-size: 14px;
+}
+
+p.contents {
+	padding: 0px 10px;	
+	font: calibri, serif;
+	font-size: 12px;
+}
+
+p.list-title{
+	font-weight: bold;
+	font-size: 14px;
+	padding: 0px;
+}
+
+p.listing {
+	padding-right: 30px;
+	font-size: 14px;
+}
+
+p.listing-detail{
+	padding: 0px 50px;
+	font-style: italic;
+	line-height: 95%;
+	font-size: 14px;
+}
+
+p.list-date {
+	padding: 0px;
+	font-size: 12px;
+	line-height: 95%;
+	color: grey;
+}
+
+p.list-quote{
+	padding-right: 30px;
+	font-style: italic;
+	font-size: 14px;
+}
+
+p.list-post{
+	padding-right: 30px;
+	color: black;
+	font-size: 14px;
+}
+
+#list-emph {
+	color: steelblue;
+	font-weight: bold;
+}
+
+#articleTitle {
+	color: teal;
+	font-style: italic;
+}
+
+#journalTitle {
+	text-decoration:underline;
+}
+
+#container {
+
+	text-align: left;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #808080;
+	width: 80%;	
+	margin: 25px;
+	min-width: 950px;
+	min-height: 900px;
+	position: relative;
+	overflow: auto;
+	background-image: url('images/container.jpg');
+	background-repeat: repeat-y;
+	background-size: 100%;	
+	
+	font-family: segoe ui, arial;
+}
+
+#profile {
+	float: left;
+	width: 25%;
+	margin: auto auto;
+
+}
+
+#main {
+	float: left;
+	width: 75%;
+	margin: auto auto;
+	background-color: white;
+}
+
+#navcontainer{
+	margin: auto auto;
+	padding: 5px 0px;
+	position: relative;
+	text-align: center;
+	color: 	#505050;
+	background-image: url('images/nav2.jpg');
+	background-repeat: repeat-x;
+	background-size: 100% 100%;	
+}
+
+#navcontainer ul{
+	display: inline;
+	padding: 0px;
+	margin: 0px;
+	list-style: none;
+	font-family: century gothic;
+}
+
+#navcontainer li {
+	display: inline;
+	padding: 0px 20px;
+	font-size: 14px;
+}
+
+li a{
+	text-decoration: none;
+	color: #505050;
+}
+
+li a:hover{
+	color: white;
+}
+
+#profilePic {
+	margin: auto auto;
+	text-align: center;
+	padding-top: 20px;
+}
+
+#contactInfo{
+	padding: 10px 20px;
+	color: white;
+	font-size: 14px;
+	font-family: calibri, century gothic, sans-serif;
+	font-weight: bold;
+	line-height: 95%;
+}
+
+#contents {
+	padding-left: 43px;
+	padding-top: 10px;
+	font-size: 14px;
+	background-color: white;
+	min-height: 800px;
+}
+
+#body-right {
+	padding-bottom: 20px;
+}
+
+#footer {
+	position: absolute;
+	bottom: 2px;
+	right: 10px;
+}

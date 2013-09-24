@@ -1,0 +1,10 @@
+<div id="navcontainer">
+	<ul>
+	  <li><a href="index.html" style="cursor:pointer"><span id="home">HOME</span></a></li>
+	  <li><a href="background.html" style="cursor:pointer"><span id="background">BACKGROUND</span></a></li>
+	  <li><a href="scholarly_activity.html" style="cursor:pointer"><span id="research">RESEARCH</span></a></li>
+	  <li><a href="teaching_activity.html" style="cursor:pointer"><span id="teaching">TEACHING</span></a></li>
+	  <li><a href="service.html" style="cursor:pointer"><span id="service">SERVICE</span></a></li>
+	  <li><a href="consulting.html" style="cursor:pointer"><span id="consulting">CONSULTING</span></a></li>
+	</ul>
+</div>

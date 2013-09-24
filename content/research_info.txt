@@ -1,0 +1,201 @@
+<h3>Research Focus</h3>
+<p class="listing">
+	Statistical modeling and analysis for interdisciplinary research which concern human and social betterment
+</p>
+
+<h3>Research Grants and Contracts</h3>
+<p class="listing">
+	<span id="list-emph">
+		Co-PI
+	</span> 
+	(with Jeffery Q. Shen and Roy Ogawa) for the project 
+	<span id="articleTitle">
+		"Development of an Interdisciplinary Bioinformatics Research/Education Program at UNLV,"
+	</span> 
+	funded by the UNLV 2004-05 Planning Initiative Awards, August 2004 - December 2005, $30,000.
+</p>
+<p class="listing">
+	<span id="list-emph">
+		Principal Investigator
+	</span> 
+	for the project 
+	<span id="articleTitle">
+		"Statistical Analysis of Episodic Patterns of Volcanism: Implications for Volcanic Hazard Assessment at Yucca Mountain, Nevada,"
+	</span>
+	funded by a contract from the Agency for Nuclear Projects, State of Nevada, July 2003 - June 2004, $40,000.
+</p>
+<p class="listing">
+	<span id="list-emph">
+		Principal Investigator
+	</span> 
+	for the project 
+	<span id="articleTitle">
+		"Statistical Analysis of Episodic Patterns of Volcanism: Implications for Volcanic Hazard Assessment at Yucca Mountain, Nevada," 
+	</span>
+	funded by a contract from the Agency for Nuclear Projects, State of Nevada, July 2002 - June 2003, $34,000.
+</p>
+<p class="listing">
+	<span id="list-emph">
+		Principal Investigator
+	</span> 
+	for the project 
+	<span id="articleTitle">
+		"Statistical Analysis of Episodic Patterns of Volcanism: Implications for Volcanic Hazard Assessment at Yucca Mountain, Nevada," 
+	</span>
+	funded by a contract from the Agency for Nuclear Projects, State of Nevada, January 2002 - June 2002, $17,000.
+</p>
+<p class="listing">
+	<span id="list-emph">
+		Statistical Consultant
+	</span> 
+	for the project 
+	<span id="articleTitle">
+		"The Effects of Substance Abuse on Child Welfare Families and Children"
+	</span>
+	and 
+	<span id="articleTitle">
+		"Levels of Intervention with Positive Toxicology Newborns and Related Family Outcomes" 
+	</span>funded by State of Nevada Division of Children and Family Services, July 2000 - June 2001, $50,000. (PI: An-Pyng Sun)
+</p>
+<p class="listing">
+	<span id="list-emph">
+		Principal Investigator
+	</span> 
+	for the project 
+	<span id="articleTitle">
+		"A Report Summarizes the Statistical Modeling of Nuclear Waste Repository Site," 
+	</span>
+	funded by a grant from the Nuclear Waste Project Office, State of Nevada, February 1996 - December 1996, $15,000.
+</p>
+<p class="listing">
+	<span id="list-emph">
+		Principal Investigator
+	</span> 
+	for the project 
+	<span id="articleTitle">
+		"Sensitivity Analysis on Smith's AMRV Model," 
+	</span>
+	funded by a grant from the Nuclear Waste Project Office, State of Nevada, October 1994 - September 1995, $35,000.
+</p>
+<p class="listing">
+	<span id="list-emph">
+		Principal Investigator
+	</span> 
+	for the project 
+	<span id="articleTitle">
+		"A Compound Power-Law Model for Volcanic Eruptions: Implications for Risk Assessment of Volcanism at Proposed Nuclear Waste Repository at Yucca Mountain, Nevada," 
+	</span>
+	funded by a grant from the Nuclear Waste Project Office, State of Nevada, October 1993 - September 1994, $35,000.
+</p>
+<p class="listing">
+	<span id="list-emph">
+		Principal Investigator
+	</span> 
+	for the project 
+	<span id="articleTitle">
+		"Sensitivity in Risk Assessment for the Yucca Mountain High-Level Nuclear Waste Repository Site: The Model and the Data," 
+	</span>
+	funded by a grant from the Nuclear Waste Project Office, State of Nevada, October 1992 - September 1993, $30,000.
+</p>
+<p class="listing">
+	<span id="list-emph">
+		Principal Investigator
+	</span> 
+	for the project 
+	<span id="articleTitle">
+		"Risk Assessment for the Yucca Mountain High-Level Nuclear Waste Repository Site," 
+	</span>
+	funded by a grant from the Nuclear Waste Project Office, State of Nevada, October 1991 - September 1992, $30,000.
+</p>
+<p class="listing">
+	<span id="list-emph">
+		Principal Investigator
+	</span> 
+	for the project 
+	<span id="articleTitle">
+		"Time Trend Analysis of Basaltic Volcanism near the Yucca Mountain Site," 
+	</span>
+	funded by a grant from the Nuclear Waste Project Office, State of Nevada, October 1991 - September 1992, $25,000.
+</p>
+<p class="listing">
+	<span id="list-emph">
+		Principal Investigator
+	</span> 
+	for the project 
+	<span id="articleTitle">
+		"The Mathematical Model of Volcanism at Yucca Mountain," 
+	</span>
+	funded by a grant from the Nuclear Waste Project Office, State of Nevada, October 1989 - September 1990, $20,000.
+</p>
+
+<h3>Research Grants and Contracts (Unfunded)</h3>
+<p class="listing">
+	<span id="list-emph">
+		Co-PI
+	</span> 
+	for the project 
+	<span id="articleTitle">
+		"Infrastructure Development for a Bioinformatice Program," 
+	</span>
+	submitted (November 2007) to UNLV for $99,890.
+</p>
+<p class="listing">
+	<span id="list-emph">
+		Co-PI
+	</span> 
+	(with S. Qian, Y. Jiang, J. Q. Shen, and M. Yang at UNLV, and H. M. Gash, B. Freeman, and Y. Ma at NVCI) for the project 
+	<span id="articleTitle">
+		"BBSI - Nevada Bioengineering and Bioinformatics Summer Institute" 
+	</span>
+	submitted (November 29, 2005) to NSF for $431,749, January 1, 2006 - December 31, 2008.
+</p>
+<p class="listing">
+	<span id="list-emph">
+		Principal Investigator
+	</span> 
+	for the project 
+	<span id="articleTitle">
+		"Fingerprinting International Decade Volcanoes," 
+	</span>
+	submitted to NASA, 03/01/04 - 02/28/05, $16,000.
+</p>
+<p class="listing">
+	<span id="list-emph">
+		Principal Investigator
+	</span> 
+	for the project 
+	<span id="articleTitle">
+		"Fingerprinting and Time-Series Models for International Decade Volcanoes," 
+	</span>
+	submitted to NSF EPSCoR, 01/01/04 - 12/31/04, $20,000.
+</p>
+<p class="listing">
+	<span id="list-emph">
+		Principal Investigator
+	</span> 
+	for the project 
+	<span id="articleTitle">
+		"3-D Poisson Process for Volcanic Hazard Assessment," 
+	</span>
+	submitted to NSF, 01/01/96 - 12/31/97, $79,512.
+</p>
+<p class="listing">
+	<span id="list-emph">
+		Principal Investigator
+	</span> 
+	for the project 
+	<span id="articleTitle">
+		"Studies Determining the Usefulness of a Compound Weibull Process Model in Volcanology," 
+	</span>
+	submitted to NSF, 07/01/95 - 06/30/98, $55,905.
+</p>
+
+<h3>Works In Progress</h3>
+<p class="listing">A nonparametric approach to forecast a system of Poisson type in geosciences: Application to mining accidents and the Parkfield earthquake prediction (manuscript under revision).</p>
+<p class="listing">Empirical recurrence rate time series for earthquake occurrences</p>
+<p class="listing">A simple nonparametric approach to predict cancer mortality counts</p>
+<p class="listing">Bayesian Missing value estimation methods: Application to the buried volcanoes at Yucca Mountain Region, Nevada</p>
+<p class="listing">Forward and Backward Statistical Control Chart for Regime Identification in Volcanic Time Series</p>
+<p class="listing">A New Approach for the Goodness-of-Fit Test for a Homogeneous Poisson Process</p>
+<p class="listing">Hazard Area and Patterns of Volcanism: Estimation of Volcanic Disruption of the Yucca Mountain High-Level Nuclear Waste Repository Site</p>
+<p class="listing">Development of an Interdisciplinary Bioinformatics Research/Education Program at UNLV (with J. Shen and R. Ogawa)</p>
